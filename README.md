@@ -24,19 +24,19 @@ The project includes a Streamlit web interface where users can select a movie an
 | IDE | VS Code |
 
 # Movie Recommendation System
-─ main.py                # Streamlit web app
-─ recommend.py           # Recommendation logic
-─ preprocess.py          # Data cleaning + NLP + TF-IDF
-─ omdb_utils.py          # Fetch movie posters using OMDB API
-─ config.json            # API key & paths
-─ requirements.txt       # Dependencies
-─ README.md              # Project documentation
+─ main.py # Streamlit web app
+─ recommend.py # Recommendation logic
+─ preprocess.py # Data cleaning + NLP + TF-IDF
+─ omdb_utils.py # Fetch movie posters using OMDB API
+─ config.json # API key & paths
+─ requirements.txt # Dependencies
+─ README.md # Project documentation
 
 # Dataset
 Dataset used: TMDB 5000 Movies Dataset
 
 #Images
 ![Homepage](images/Home_page.png) | ![Output](images/output.png) 
-![RecommendationPage](Recommendation.png) | ![Output](images/output.png) 
+![RecommendationPage](images/Recommendation.png) | ![Output](images/output.png) 
 
 
