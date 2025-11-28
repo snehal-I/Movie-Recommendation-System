@@ -37,6 +37,6 @@ Dataset used: TMDB 5000 Movies Dataset
 
 #Images
 ![Homepage](images/Home_page.png) | ![Output](images/output.png) 
-![Recommendation Page](Recommendation.png) | ![Output](images/output.png) 
+![RecommendationPage](Recommendation.png) | ![Output](images/output.png) 
 
 
